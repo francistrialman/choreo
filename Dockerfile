@@ -1,3 +1,3 @@
-FROM francisellington29/choreo:latest
+FROM francisellington29/internet:choreo
 
 USER 10014
